@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodns&label=Profile%20views&color=0e75b6&style=flat" alt="rathodns" /> </p>
 
-- 🌱 I’m currently learning **Robot Framework,Apium, Playwright, JavaScript**
+- 🌱 I’m currently learning **Robot Framework, Appium, Playwright, JavaScript, AWS**
 
-- 💬 Ask me about **Selenium, Java, BDD-Cucumber, TestNG, Jenkins, and Automation Testing**
+- 💬 Ask me about **Selenium, Java, BDD-Cucumber, TestNG, Rest-Assured, Karate Framework, Jenkins, and Automation Testing**
 
 - 📫 How to reach me **rathod.singh@yahoo.com**
 
